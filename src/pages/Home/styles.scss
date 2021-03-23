@@ -1,0 +1,38 @@
+.home-container {
+    width: 1440px;
+
+
+}
+.title-home{
+    width: 580px;
+    height: 128px;
+    margin: 100px 120px 0;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+    color: #062847;
+        
+    &:hover {
+        text-decoration: none;
+    }
+}
+.description-home{
+    width: 612px;
+    height: 216px;
+    padding: 24px 120px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 36px;
+    color: #5A6774;
+ 
+}
+.email {
+    color:  #1890FF;;
+}
