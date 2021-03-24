@@ -1,7 +1,7 @@
 .btn{
-    width: 110px;
+    width: 140px;
     height: 40px;
-    margin: 0px 120px 0;
+    margin-left: 120px;
     background: #1890FF;
     border-radius: 4px;
     color: #FFF;
@@ -18,3 +18,25 @@
     }
 
 }
+
+.btn-base{
+    width: 110px;
+    height: 40px;
+    margin-left: 94px;
+    background: #1890FF;
+    border-radius: 4px;
+    color: #FFF;
+    border:none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+
+    &:hover {
+        opacity: 0.9;
+    }
+
+}
+

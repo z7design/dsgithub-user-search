@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import './styles.scss';
 
 const Home = () => (
-<div className="home-container">
+<div className="container">
     <h1  className="title-home">
         Desafio do Capítulo 3,<br /> Bootcamp DevSuperior
     </h1>
